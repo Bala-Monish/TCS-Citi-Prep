@@ -1,0 +1,85 @@
+Bank
+USBank
+Maryville
+120 S Main St, Maryville,MO,64468
+Mary
+Smith
+1996/01/12
+Smith, Mary-1996/01/12-L7863567-Passport
+1121 N College Drive Apt #8,Maryville,MO,64468
+4704689926
+marysmith@gmail.com
+smithm1234
+password1
+checking
+overdraft
+deposit,300.0,2018/03/03
+deposit,125.0,2018/03/05
+deposit,1200.0,2018/03/05
+withdraw,150.0,2018/04/10
+deposit,450.0,2018/04/12
+withdraw,2500.0,2018/05/14
+withdraw,2200.0,2018/05/14
+deposit,450.0,2018/05/18
+James
+Johnson
+1989/06/09
+James Johnson-1989/06/09-D091647438-Driver's license
+112 S Univ Drive Apt #8,Maryville,MO,64468
+6601267134
+jamesj@yahoo.com
+james007
+Password123
+savings
+100.0
+deposit,300.0,2018/03/03
+deposit,125.0,2018/03/05
+deposit,1200.0,2018/03/05
+withdraw,150.0,2018/04/10
+deposit,450.0,2018/04/12
+withdraw,2500.0,2018/05/14
+withdraw,2200.0,2018/05/14
+Bank
+Nodaway
+Maryville
+121 Filmmore St, Maryville,MO,64468
+Sheronda
+Verner
+1995/05/19
+Sheronda Verner-1995/05/19-123467895432-Aadhar
+112 S Univ Drive Apt #8,Maryville,MO,64468
+8769601268
+sverner@nwmissouri.edu.com
+sverner
+passWord474
+savings
+1000.0
+deposit,300.0,2018/03/03
+deposit,125.0,2018/03/05
+deposit,1200.0,2018/03/05
+withdraw,150.0,2018/04/10
+deposit,450.0,2018/04/12
+withdraw,2500.0,2018/05/14
+withdraw,2200.0,2018/05/14
+Bank
+Bank_of_America
+Maryville
+800 Walnut Street, Maryville,MO,64468
+Philip
+Pope
+1990/08/15
+Pope, Philip-1990/08/15-185461469432-Aadhar
+562 Walnut street,Maryville,MO,64468
+8749065437
+peterp@nwmissouri.edu.com
+peterpope
+PassWord111
+savings
+2000.0
+deposit,300.0,2018/03/03
+deposit,125.0,2018/03/05
+deposit,1200.0,2018/03/05
+withdraw,150.0,2018/04/10
+deposit,450.0,2018/04/12
+deposit,2500.0,2018/05/14
+withdraw,200.0,2018/05/14

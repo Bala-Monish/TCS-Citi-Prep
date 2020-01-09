@@ -1,0 +1,75 @@
+Customer
+Bruce Wayne
+LI457566 24
+Vehicle
+Coupe
+VX1256 Audi R8 L Trims
+Automatic 10.4
+Compact
+Power_Seats
+true
+2500 134.56
+Booking
+123.4
+XM_Radio,Premium_Insurance,RoadSide_Assistance
+Los Angeles 
+34 118
+Kansas City
+39 94
+yes
+Customer
+Frank Martin
+LI699055 37
+Vehicle
+Sedan
+SD3456 BMW E38 720i
+Manual 20.0
+Full Size
+Power_Seats
+17.7
+1800 250.0
+Booking
+240.4
+XM_Radio,Personal_Insurance
+Memphis
+35 90
+Miami
+25 80
+No
+Customer
+Optimus Prime
+LI986768 45
+Vehicle
+Truck
+TR9494 WesternStar 5700 SE
+Automatic 7.0
+10000
+50
+2000 205.0
+Booking
+240.4
+XM_Radio,Premium_Insurance,RoadSide_Assistance,Portable_Gps
+Detroit
+42 83
+Nevada
+38 116
+No
+Customer
+Sam Witwicky
+LI986768 20
+Vehicle
+Coupe
+CU5896 Chevrolet Camaro SS
+Automatic 20.0
+Compact
+Convertible
+false
+2000 2050.0
+Booking
+240.4
+XM_Radio,Personal_Insurance,Additional_Driver,Portable_Gps
+Detroit
+42 83
+Nevada
+38 116
+No
