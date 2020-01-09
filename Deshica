@@ -1,0 +1,23 @@
+package Generics;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+class StringGenerics {
+	public static void main(String args[]) {
+		
+		ArrayList<String> myList = new ArrayList<String>();
+		
+		myList.add("Deshica");
+		myList.add("Sadhica");
+		
+		String Str = myList.get(0);
+		System.out.println("The Word is: " + Str);
+		
+		Iterator<String> it = myList.iterator();
+		while(it.hasNext()) {
+			System.out.println(it.next());
+		}
+	}
+
+}
