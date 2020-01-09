@@ -1,0 +1,3 @@
+Comparable and Comparator:
+Comparable is used to compare itself with other object
+Comparator used to compare two external objects.

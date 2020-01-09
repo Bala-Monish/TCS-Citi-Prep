@@ -1,0 +1,36 @@
+ClassName: Should start with UpperCase Letter. 
+methodName: should start with small Letter and follow the camel case
+variableName: should start with small Letter and follow the camel case
+CONSTANTS : All should be in caps
+package name - package name should be small cases
+
+Program should be well formatted
+
+static variables can be accessed through static methods only.
+If you want to call instance(non static) methods you have to create an object for the class.
+
+Practice Examples: 
+create one more inheritance example - Multiple Inheritance
+Static and Non static - 
+this and super keywords 
+
+
+final keyword:
+
+When we go for abstract class and interface
+
+Create 2 examples of Abstract class and Interface
+understand default mechanism in interface -  Example
+
+Oct Seven:
+Can static methods be overridden? YES but static functions are bound to their classes or interfaces (class.staticMethod)
+if any method is common to interfaces and classes, classes take precedence.
+
+
+Constructor:
+Thumb Rules:
+	1. Constructor name should be class name
+	2. Construtor shouldn't have return type
+	3. Constructor should have access specifier public(can have private for singleton class)
+	4. Default constructor is optional, JVM will create default constructor for u
+	5. But when you are having a parameterized constructor it is your duty to create default constructor

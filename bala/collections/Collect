@@ -1,0 +1,9 @@
+Collection interface is the superclass for all the collection classes
+	Collection is implemented by
+	
+	
+	1. Diff b/w vector and Arraylist.
+	2. HashSet implementation with Objects. 
+	
+	Hashset calls Equals and hashcode of Object class. Override it in POJO to sort for hashset.
+	SortedSet calls compareTo method of Comaparable. Override it in POJO to sort for SortedSet.
