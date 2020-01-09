@@ -1,0 +1,8 @@
+iOS questions
+
+After pressing the return key changes in the text field reflect on the label.
+But when everything is deleted from the text field one letter still shows on the label.
+
+Any difference between using the variable name or the method input parameter name.
+
+What is cocoa touch?
