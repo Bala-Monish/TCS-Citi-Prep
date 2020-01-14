@@ -1,0 +1,25 @@
+<a [routerLink]="['/product']"><b>Products</b></a> |
+<a [routerLink]="['/cart']"><b>Cart</b></a>
+<div>
+  <h3>Available Products</h3>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Photo</th>
+        <th>Add to Cart</th>
+    </tr>
+    <tr *ngFor="let product of products">
+        <td>{{product.id}}</td>
+        <td>{{product.name}}</td>
+        <td>{{product.price}}</td>
+        <td>
+           <img src="{{product.photo}}" width="100">
+        </td>
+        <td>
+            <a [routerLink]="['/cart', { id:product.id }]">Add</a>
+        </td>
+    </tr>
+</table>
+  </div>
